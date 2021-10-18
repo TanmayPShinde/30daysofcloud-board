@@ -14,15 +14,6 @@ export default function Home() {
           <Typography variant="body2" color="textSecondary">
             Last updated: {data.buildDate}
           </Typography>
-          <Typography variant="body2" color="textSecondary">
-            <a
-              href="https://www.github.com/crossphoton"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Developed by Aditya Agrawal
-            </a>
-          </Typography>
         </footer>
         <div className="center">
           <Typography className="bolder" variant="h2" color="textPrimary">
